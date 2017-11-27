@@ -1,3 +1,7 @@
+/* Attribution
+ * Mike DePaul
+ * https://github.com/mdepaul/XRng.git
+ * */
 using MD.XRng;
 using System;
 using Xunit;

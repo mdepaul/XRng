@@ -1,4 +1,8 @@
-﻿using System.Security.Cryptography;
+﻿/* Attribution
+ * Mike DePaul
+ * https://github.com/mdepaul/XRng.git
+ * */
+using System.Security.Cryptography;
 
 namespace MD.XRng
 {

@@ -1,4 +1,8 @@
-﻿namespace MD.XRng
+﻿/* Attribution
+ * Mike DePaul
+ * https://github.com/mdepaul/XRng.git
+ * */
+namespace MD.XRng
 {
     public interface IPrng
     {
